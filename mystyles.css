@@ -1,0 +1,259 @@
+html
+   {
+   margin:0;
+   padding:0;
+   }
+font.small_arial_bold
+   {
+   color:#000000;
+   font-family:'Arial', 'Verdana', sans-serif;
+   font-size:12px;
+   font-weight:bold;
+   }
+font.small_arial
+   {
+   color:#000000;
+   font-family:'Arial', 'Verdana', sans-serif;
+   font-size:12px;
+   }
+table.navigation
+   {
+   color:#222222;
+   background-color:#343434;
+   font-family: 'Segoe UI Light', 'Arial', 'Verdana', sans-serif;
+   }
+a.navigation:link
+   {
+   color:#808080;
+   text-decoration:none;
+   font-family: 'Segoe UI Light', 'Arial', 'Verdana', sans-serif;
+   }
+a.navigation:visited
+   {
+   color:#808080;
+   text-decoration:none;
+   font-family: 'Segoe UI Light', 'Arial', 'Verdana', sans-serif;
+   }
+a.navigation:link
+   {
+   color:#808080;
+   text-decoration:none;
+   font-family: 'Segoe UI Light', 'Arial', 'Verdana', sans-serif;
+   }
+a.navigation:hover
+   {
+   color:#000000;
+   text-decoration:none;
+   font-family: 'Segoe UI Light', 'Arial', 'Verdana', sans-serif;
+   }
+span.name
+    {
+   font-family: 'Segoe UI Light', 'Arial', 'Verdana', sans-serif;
+   font-size:x-large;
+    }
+p
+   {
+   color:#202020;
+   font-family:'Arial', 'Verdana', sans-serif;
+   font-size:12px;
+   line-height:20px;
+   }
+p.contact_info
+   {
+   color:#202020;
+   font-family: 'Segoe UI Light', 'Arial', 'Verdana', sans-serif;
+   font-size:medium;
+   }
+p.small
+   {
+   color:#202020;
+   font-family:'Arial', 'Verdana', sans-serif;
+   font-size:10px;
+   line-height:12px;
+   }
+a.normal:link
+   {
+   color:#0066CC;
+   font-family:'Segoe UI Light', 'Arial', 'Verdana', sans-serif;
+   text-decoration:none;
+   }
+a.normal:visited
+   {
+   color:#0066CC;
+   font-family:'Segoe UI Light', 'Arial', 'Verdana', sans-serif;
+   text-decoration:none;
+   }
+a.normal:hover
+   {
+   color:#0066CC;
+   font-family:'Segoe UI Light', 'Arial', 'Verdana', sans-serif;
+   text-decoration:none;
+   }
+tr.navigation_header_top
+   {
+   height:30px;
+   color:#758261;
+   background-color:#dedede;
+   font-family:'Arial', 'Verdana', sans-serif;
+   font-size:16px;
+   font-weight:bold;
+   text-align:center;
+   }
+tr.navigation_header_bottom
+   {
+   height:45px;
+   color:#758261;
+   background-color:#dedede;
+   font-family: 'Segoe UI Light', 'Arial', 'Verdana', sans-serif;
+   font-size:28px;
+   text-align:center;
+   }
+td.navigation_header_selected
+   {
+   height:45px;
+   color:#758261;
+   background-color:#ffffff;
+   font-family: 'Segoe UI Light', 'Arial', 'Verdana', sans-serif;
+   font-size:28px;
+   text-align:center;
+   }
+td.section_header
+   {
+   color:#EE5511;
+   font-family:'Segoe UI Light', 'Arial', 'Verdana', sans-serif;
+   font-size:20px;
+   font-weight:bold;
+   line-height:20px;
+   border-bottom:thin dotted #AAAAAA;
+   }
+td.section_header_gray
+   {
+   color:#A0A0A0;
+   font-family:'Arial', 'Verdana', sans-serif;
+   font-size:14px;
+   line-height:22px;
+   }
+td.news_date
+   {
+   vertical-align:top;
+   color:#000000;
+   font-family: 'Segoe UI', 'Arial', 'Verdana', sans-serif;
+   font-size:14px;
+   }
+td.news
+   {
+   vertical-align:top;
+   color:#202020;
+   font-family: 'Segoe UI', 'Arial', 'Verdana', sans-serif;
+   font-size:14px;
+   }
+td.more
+   {
+   vertical-align:middle;
+   text-align:center;
+   color:#202020;
+   background-color:#DDDDDD;
+   font-family: 'Segoe UI', 'Arial', 'Verdana', sans-serif;
+   font-size:16px;
+   }
+td.paper
+   {
+   color:#202020;
+   font-family: 'Segoe UI', 'Arial', 'Verdana', sans-serif;
+   font-size:14px;
+   }
+td.details_header
+   {
+   color:#204C82;
+   font-family:'Arial', 'Verdana', sans-serif;
+   font-size:12px;
+   line-height:20px;
+   }
+td.details
+   {
+   color:#808080;
+   font-family:'Arial', 'Verdana', sans-serif;
+   font-size:12px;
+   line-height:20px;
+   }
+table.basic
+   {
+   color:#202020;
+   font-family:'Arial', 'Verdana', sans-serif;
+   font-size:12px;
+   line-height:20px;
+   }
+td.paper_abstract
+   {
+   color:#808080;
+   font-family: 'Segoe UI Light', 'Arial', 'Verdana', sans-serif;
+   font-size:small;
+   }
+td.small_header
+   {
+   color:#A3A9A5;
+   font-family:'Arial', 'Verdana', sans-serif;
+   font-size: 14px; 
+   text-decoration: none; 
+   font-weight: bold 
+   }
+a.small_header:link 
+   { 
+   color: #A3A9A5; 
+   font-family:'Arial', 'Verdana', sans-serif;
+   font-size: 14px; 
+   text-decoration: none; 
+   font-weight: bold 
+   }
+a.small_header:active 
+   { 
+   color: #CC6600; 
+   font-family:'Arial', 'Verdana', sans-serif;
+   font-size: 14px; 
+   text-decoration: none; 
+   font-weight: bold 
+   }
+a.small_header:visited 
+   { 
+   color: #A3A9A5; 
+   font-family:'Arial', 'Verdana', sans-serif;
+   font-size: 14px; 
+   text-decoration: none; 
+   font-weight: bold 
+   }
+a.small_header:hover 
+   { 
+   color: #204C82; 
+   font-family:'Arial', 'Verdana', sans-serif;
+   font-size: 14px; 
+   text-decoration: none; 
+   font-weight: bold 
+   }
+table.small_header 
+   { 
+   color: #A3A9A5; 
+   font-family:'Arial', 'Verdana', sans-serif;
+   font-size: 14px; 
+   text-decoration: none; 
+   font-weight: bold 
+   }
+tr.top
+  {
+  height:30px
+  }   
+td.low
+  {
+  height:25px
+  }   
+tr.section_header
+  {
+  height:30px;
+  }
+tr.separator
+  {
+  height:10px;
+  }
+tr.large_separator
+  {
+  height:20px;
+  }
